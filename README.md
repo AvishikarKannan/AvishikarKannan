@@ -30,7 +30,7 @@
 ## 📊 GitHub Stats & Activity
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=AvishikarKannan&theme=onedark&no-bg=true&no-frame=true&row=1&column=6" alt="Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=AvishikarKannan&theme=onedark&no-bg=true&no-frame=true&row=1&column=6" alt="GitHub Trophies" />
 </p>
 
 <p align="center">
@@ -38,12 +38,17 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AvishikarKannan&theme=tokyonight" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=AvishikarKannan&theme=tokyonight" alt="GitHub Streak" />
 </p>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AvishikarKannan&layout=compact&theme=tokyonight" alt="Top Languages" />
 </p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=AvishikarKannan&theme=react-dark&area=true&hide_border=true" alt="Contribution Graph"/>
+</p>
+
 
 <p align="center">
   <img src="https://github-readme-activity-graph.cyclic.app/graph?username=AvishikarKannan&theme=react-dark&area=true&hide_border=true" alt="Contribution Graph"/>
