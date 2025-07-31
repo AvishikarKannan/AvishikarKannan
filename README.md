@@ -1,1 +1,1 @@
-![Demo](assets/demo.gif)
+![Demo](assets/Glow(1).gif)
