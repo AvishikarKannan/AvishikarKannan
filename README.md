@@ -1,1 +1,1 @@
-![Demo](assets/Glow.gif)
+![Demo](assets/salutations.gif)
