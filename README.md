@@ -5,13 +5,13 @@
 <h1 align="center">Hi 👋, I'm Avishikar Kannan</h1>
 
 <p align="center">
-  I'm a really curious person who loves to explore and learn new things.  
-  Passionate about coding, building, and experimenting with all sorts of technologies.
+  A curious soul driven by learning. I love exploring new tech, building cool projects, and solving problems through code.<br>
+  Currently diving deeper into Artificial Intelligence and Machine Learning 🤖
 </p>
 
 ---
 
-### 🚀 Technologies & Tools
+## 🛠️ Tech Stack
 
 <p align="center">
   <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white"/>
@@ -27,23 +27,29 @@
 
 ---
 
-### 📊 GitHub Stats
+## 📊 GitHub Stats & Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AvishikarKannan&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-profile-trophy.vercel.app/?username=avishikark&theme=onedark&no-bg=true&no-frame=true&row=1&column=6" alt="Trophies" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AvishikarKannan&theme=radical" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=avishikark&show_icons=true&theme=tokyonight&include_all_commits=true" alt="GitHub Stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AvishikarKannan&layout=compact&theme=radical" alt="Top Languages" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=avishikark&theme=tokyonight" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=avishikark&layout=compact&theme=tokyonight" alt="Top Languages" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=avishikark&theme=react-dark&area=true&hide_border=true" alt="Contribution Graph"/>
 </p>
 
 ---
 
-### 🧠 Currently Learning
-Machine Learning • Arduino Hacks • Creative Coding • AI-Enhanced Interfaces
-
----
+## 🧠 Currently Learning
+AI Projects • Arduino Hacks • Creative Interfaces • Model Deployment
