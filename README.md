@@ -30,23 +30,23 @@
 ## 📊 GitHub Stats & Activity
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=avishikark&theme=onedark&no-bg=true&no-frame=true&row=1&column=6" alt="Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=AvishikarKannan&theme=onedark&no-bg=true&no-frame=true&row=1&column=6" alt="Trophies" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=avishikark&show_icons=true&theme=tokyonight&include_all_commits=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=AvishikarKannan&show_icons=true&theme=tokyonight&include_all_commits=true" alt="GitHub Stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=avishikark&theme=tokyonight" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AvishikarKannan&theme=tokyonight" alt="GitHub Streak" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=avishikark&layout=compact&theme=tokyonight" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AvishikarKannan&layout=compact&theme=tokyonight" alt="Top Languages" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=avishikark&theme=react-dark&area=true&hide_border=true" alt="Contribution Graph"/>
+  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=AvishikarKannan&theme=react-dark&area=true&hide_border=true" alt="Contribution Graph"/>
 </p>
 
 ---
