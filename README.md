@@ -2,11 +2,11 @@
   <img src="assets/welcome.gif" width="300" alt="Animated Banner">
 </p>
 
-<h1 align="center">Hi 👋, I'm Avishikar Kannan</h1>
+<h1 align="center">Hi, I'm Avishikar Kannan</h1>
 
 <p align="center">
   A curious soul driven by learning. I love exploring new tech, building cool projects, and solving problems through code.<br>
-  Currently diving deeper into Artificial Intelligence and Machine Learning 🤖
+  Currently diving deeper into Artificial Intelligence and Machine Learning 
 </p>
 
 ---
