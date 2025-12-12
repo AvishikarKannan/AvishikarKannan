@@ -27,38 +27,6 @@
 
 ---
 
-## 📊 GitHub Stats & Activity
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=AvishikarKannan&theme=onedark&no-bg=true&no-frame=true&row=1&column=6" alt="GitHub Trophies" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AvishikarKannan&show_icons=true&theme=tokyonight&include_all_commits=true" alt="GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=AvishikarKannan&theme=tokyonight" alt="GitHub Streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AvishikarKannan&layout=compact&theme=tokyonight" alt="Top Languages" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=AvishikarKannan&theme=react-dark&area=true&hide_border=true" alt="Contribution Graph"/>
-</p>
-
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=AvishikarKannan&theme=react-dark&area=true&hide_border=true" alt="Contribution Graph"/>
-</p>
-
----
-
-## 🧠 Currently Learning
-AI Projects • Arduino Hacks • Creative Interfaces • Model Deployment
-
 <h2 align="center">⚡ Stats ⚡</h2>
 
 ![](https://nirzak-streak-stats.vercel.app/?user=AvishikarKannan&theme=dark&hide_border=false)<br/>
@@ -66,3 +34,8 @@ AI Projects • Arduino Hacks • Creative Interfaces • Model Deployment
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=AvishikarKannan&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ![](https://github-readme-activity-graph.vercel.app/graph?username=AvishikarKannan&theme=react-dark&bg_color=20232a&hide_border=true")
+
+---
+
+## 🧠 Currently Learning
+AI Projects • Arduino Hacks • Creative Interfaces • Model Deployment
